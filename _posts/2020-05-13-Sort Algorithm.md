@@ -85,7 +85,7 @@ def insert_sort(l):
                 l[j+1] = l[j]
     return l
 ```
-<h5 id="3"> 3. 希尔排序：</h5>
+<h5 id="4"> 4. 希尔排序：</h5>
 
 ```python
 def shell_sort(l):
