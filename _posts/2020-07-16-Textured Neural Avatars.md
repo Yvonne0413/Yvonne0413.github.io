@@ -1,12 +1,8 @@
 ---
 layout: mypost
-title: Front-end study day 1
+title: Textured Neural Avatars Reading Notes
 categories: [paper notes, computer vision]
 ---
-
-### Textured Neural Avatars_Reading Notes
-
-------
 
 > [Paper and Codes](https://www.catalyzex.com/paper/arxiv:1905.08776 "Textured Neural Avatars")
 > Edited on [Dillinger](https://dillinger.io/)
