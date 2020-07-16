@@ -5,7 +5,7 @@ categories: [paper notes, computer vision]
 ---
 
 > [Paper and Codes](https://www.catalyzex.com/paper/arxiv:1905.08776 "Textured Neural Avatars")
-> Edited on [Dillinger](https://dillinger.io/)
+> Edited on [Typora](https://typora.io/)
 > Zhuoyi Huang, 2020.7.14
 
 ----
